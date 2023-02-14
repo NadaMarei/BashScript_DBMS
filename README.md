@@ -1,7 +1,7 @@
 # Bash script project "Database Management System (DBMS) -ITI
 # Project Features:
 
-# The Application will provide to user this Menu items:
+The Application will provide to user this Menu items:
 Main Menu:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
     Create Database
