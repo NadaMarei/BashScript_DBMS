@@ -30,4 +30,4 @@ Run this command in terminal in clone path :
 . ./opening_menu.sh
 
 # Authors
--NadaMarei. -Mohamed Sharif.  
+<a href="https://github.com/NadaMarei">-Nada Marei.</a> <a href="">-Mohamed Sharif.</a>
