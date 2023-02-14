@@ -27,6 +27,7 @@ Table Menu:
 # Instruction to run the application:
 
 Run this command in terminal in clone path :
+
 ./opening_menu.sh
 
 # Authors
